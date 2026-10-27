@@ -1,0 +1,16 @@
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\bin\Debug\net10.0\20261026_test.exe
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\bin\Debug\net10.0\20261026_test.deps.json
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\bin\Debug\net10.0\20261026_test.runtimeconfig.json
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\bin\Debug\net10.0\20261026_test.dll
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\bin\Debug\net10.0\20261026_test.pdb
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.AssemblyInfoInputs.cache
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.AssemblyInfo.cs
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.csproj.CoreCompileInputs.cache
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.sourcelink.json
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.dll
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\refint\20261026_test.dll
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.pdb
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026_test.genruntimeconfig.cache
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\ref\20261026_test.dll
+C:\Users\33592\Desktop\Unity学习\Test\20261026_test\obj\Debug\net10.0\20261026.BE336329.Up2Date
