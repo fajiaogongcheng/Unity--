@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "1105字符串拼接/1.0.0": {
+        "runtime": {
+          "1105字符串拼接.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1105字符串拼接/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
